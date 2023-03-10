@@ -1,0 +1,844 @@
+Series_Title,Released_Year,IMDB_Rating,Meta_score,Director,Star1,No_of_Votes
+The Shawshank Redemption,1994,9.3,80,Frank Darabont,Tim Robbins,2343110
+The Dark Knight,2008,9,84,Christopher_Nolan,Christian Bale,2303232
+Inception,2010,8.8,74,Christopher_Nolan,Leonardo DiCaprio,2067042
+Fight Club,1999,8.8,66,David Fincher,Brad Pitt,1854740
+Pulp Fiction,1994,8.9,94,Quentin Tarantino,John Travolta,1826188
+Forrest Gump,1994,8.8,82,Robert Zemeckis,Tom Hanks,1809221
+The Matrix,1999,8.7,73,Lana Wachowski,Lilly Wachowski,1676426
+The Lord of the Rings: The Fellowship of the Ring,2001,8.8,92,Peter Jackson,Elijah Wood,1661481
+The Lord of the Rings: The Return of the King,2003,8.9,94,Peter Jackson,Elijah Wood,1642758
+The Godfather,1972,9.2,100,Francis Ford Coppola,Marlon Brando,1620367
+The Dark Knight Rises,2012,8.4,78,Christopher_Nolan,Christian Bale,1516346
+Interstellar,2014,8.6,74,Christopher_Nolan,Matthew McConaughey,1512360
+The Lord of the Rings: The Two Towers,2002,8.7,87,Peter Jackson,Elijah Wood,1485555
+Se7en,1995,8.6,65,David Fincher,Morgan Freeman,1445096
+Django Unchained,2012,8.4,81,Quentin Tarantino,Jamie Foxx,1357682
+Gladiator,2000,8.5,67,Ridley Scott,Russell Crowe,1341460
+Batman Begins,2005,8.2,70,Christopher_Nolan,Christian Bale,1308302
+The Silence of the Lambs,1991,8.6,85,Jonathan Demme,Jodie Foster,1270197
+Inglourious Basterds,2009,8.3,69,Quentin Tarantino,Brad Pitt,1267869
+The Avengers,2012,8,69,Joss Whedon,Robert Downey Jr.,1260806
+Saving Private Ryan,1998,8.6,91,Steven Spielberg,Tom Hanks,1235804
+Star Wars,1977,8.6,90,George Lucas,Mark Hamill,1231473
+Schindler's List,1993,8.9,94,Steven Spielberg,Liam Neeson,1213505
+The Prestige,2006,8.5,66,Christopher_Nolan,Christian Bale,1190259
+The Departed,2006,8.5,85,Martin Scorsese,Leonardo DiCaprio,1189773
+The Wolf of Wall Street,2013,8.2,75,Martin Scorsese,Leonardo DiCaprio,1187498
+Star Wars: Episode V - The Empire Strikes Back,1980,8.7,82,Irvin Kershner,Mark Hamill,1159315
+The Green Mile,1999,8.6,61,Frank Darabont,Tom Hanks,1147794
+The Godfather: Part II,1974,9,90,Francis Ford Coppola,Al Pacino,1129952
+Shutter Island,2010,8.2,63,Martin Scorsese,Leonardo DiCaprio,1129894
+Memento,2000,8.4,80,Christopher_Nolan,Guy Pearce,1125712
+Avatar,2009,7.8,83,James Cameron,Sam Worthington,1118998
+American Beauty,1999,8.3,84,Sam Mendes,Kevin Spacey,1069738
+Back to the Future,1985,8.5,87,Robert Zemeckis,Michael J. Fox,1058081
+Titanic,1997,7.8,75,James Cameron,Leonardo DiCaprio,1046089
+Guardians of the Galaxy,2014,8,76,James Gunn,Chris Pratt,1043455
+Léon,1994,8.5,64,Luc Besson,Jean Reno,1035236
+American History X,1998,8.5,62,Tony Kaye,Edward Norton,1034705
+V for Vendetta,2005,8.2,62,James McTeigue,Hugo Weaving,1032749
+Goodfellas,1990,8.7,90,Martin Scorsese,Robert De Niro,1020727
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,8,63,Gore Verbinski,Johnny Depp,1015122
+Kill Bill: Vol. 1,2003,8.1,69,Quentin Tarantino,Uma Thurman,1000639
+WALL·E,2008,8.4,95,Andrew Stanton,Ben Burtt,999790
+Terminator 2: Judgment Day,1991,8.5,75,James Cameron,Arnold Schwarzenegger,995506
+The Usual Suspects,1995,8.5,77,Bryan Singer,Kevin Spacey,991208
+Braveheart,1995,8.3,68,Mel Gibson,Mel Gibson,959181
+Star Wars: Episode VI - Return of the Jedi,1983,8.3,58,Richard Marquand,Mark Hamill,950470
+Finding Nemo,2003,8.1,90,Andrew Stanton,Lee Unkrich,949565
+The Lion King,1994,8.5,88,Roger Allers,Rob Minkoff,942045
+Iron Man,2008,7.9,79,Jon Favreau,Robert Downey Jr.,939644
+The Truman Show,1998,8.1,90,Peter Weir,Jim Carrey,939631
+Joker,2019,8.5,59,Todd Phillips,Joaquin Phoenix,939252
+Up,2009,8.2,88,Pete Docter,Bob Peterson,935507
+Reservoir Dogs,1992,8.3,79,Quentin Tarantino,Harvey Keitel,918562
+One Flew Over the Cuckoo's Nest,1975,8.7,83,Milos Forman,Jack Nicholson,918088
+Eternal Sunshine of the Spotless Mind,2004,8.3,89,Michel Gondry,Jim Carrey,911664
+The Sixth Sense,1999,8.1,64,M. Night Shyamalan,Bruce Willis,911573
+Deadpool,2016,8,65,Tim Miller,Ryan Reynolds,902669
+The Shining,1980,8.4,66,Stanley Kubrick,Jack Nicholson,898237
+Toy Story,1995,8.3,95,John Lasseter,Tom Hanks,887429
+Raiders of the Lost Ark,1981,8.4,85,Steven Spielberg,Harrison Ford,884112
+Mad Max: Fury Road,2015,8.1,90,George Miller,Tom Hardy,882316
+Jurassic Park,1993,8.1,68,Steven Spielberg,Sam Neill,867615
+Good Will Hunting,1997,8.3,70,Gus Van Sant,Robin Williams,861606
+Star Wars: Episode VII - The Force Awakens,2015,7.9,80,J.J. Abrams,Daisy Ridley,860823
+Gone Girl,2014,8.1,79,David Fincher,Ben Affleck,859695
+No Country for Old Men,2007,8.1,91,Ethan Coen,Joel Coen,856916
+A Beautiful Mind,2001,8.2,72,Ron Howard,Russell Crowe,848920
+Avengers: Infinity War,2018,8.4,68,Anthony Russo,Joe Russo,834477
+Catch Me If You Can,2002,8.1,75,Steven Spielberg,Leonardo DiCaprio,832846
+"Monsters, Inc.",2001,8.1,79,Pete Docter,David Silverman,815505
+Avengers: Endgame,2019,8.4,78,Anthony Russo,Joe Russo,809955
+The Terminator,1984,8,84,James Cameron,Arnold Schwarzenegger,799795
+Slumdog Millionaire,2008,8,84,Danny Boyle,Loveleen Tandan,798882
+Die Hard,1988,8.2,72,John McTiernan,Bruce Willis,793164
+Alien,1979,8.4,89,Ridley Scott,Sigourney Weaver,787806
+Snatch,2000,8.3,55,Guy Ritchie,Jason Statham,782001
+Gravity,2013,7.7,96,Alfonso Cuarón,Sandra Bullock,769145
+Requiem for a Dream,2000,8.3,68,Darren Aronofsky,Ellen Burstyn,766870
+Harry Potter and the Deathly Hallows: Part 2,2011,8.1,85,David Yates,Daniel Radcliffe,764493
+The Intouchables,2011,8.5,57,Olivier Nakache,Éric Toledano,760360
+The Martian,2015,8,80,Ridley Scott,Matt Damon,760094
+A Clockwork Orange,1971,8.3,77,Stanley Kubrick,Malcolm McDowell,757904
+The Hobbit: An Unexpected Journey,2012,7.8,58,Peter Jackson,Martin Freeman,757377
+Toy Story 3,2010,8.2,92,Lee Unkrich,Tom Hanks,757032
+Scarface,1983,8.3,65,Brian De Palma,Al Pacino,740911
+Donnie Darko,2001,8,88,Richard Kelly,Jake Gyllenhaal,740086
+Sin City,2005,8,74,Frank Miller,Quentin Tarantino,738512
+Captain America: The Winter Soldier,2014,7.7,70,Anthony Russo,Joe Russo,736182
+300,2006,7.6,52,Zack Snyder,Gerard Butler,732876
+The Big Lebowski,1998,8.1,71,Joel Coen,Ethan Coen,732620
+The Pianist,2002,8.5,85,Roman Polanski,Adrien Brody,729603
+Taxi Driver,1976,8.3,94,Martin Scorsese,Robert De Niro,724636
+Gran Torino,2008,8.1,72,Clint Eastwood,Clint Eastwood,720450
+Whiplash,2014,8.5,88,Damien Chazelle,Miles Teller,717585
+The Hangover,2009,7.7,73,Todd Phillips,Zach Galifianakis,717559
+The Grand Budapest Hotel,2014,8.1,88,Wes Anderson,Ralph Fiennes,707630
+The Revenant,2015,8,76,Alejandro G. Iñárritu,Leonardo DiCaprio,705589
+Amélie,2001,8.3,69,Jean-Pierre Jeunet,Audrey Tautou,703810
+Black Swan,2010,8,79,Darren Aronofsky,Natalie Portman,699673
+Cidade de Deus,2002,8.6,79,Fernando Meirelles,Kátia Lund,699256
+Blade Runner,1982,8.1,84,Ridley Scott,Harrison Ford,693827
+Indiana Jones and the Last Crusade,1989,8.2,65,Steven Spielberg,Harrison Ford,692366
+12 Angry Men,1957,9,96,Sidney Lumet,Henry Fonda,689845
+"Il buono, il brutto, il cattivo",1966,8.8,90,Sergio Leone,Clint Eastwood,688390
+The Imitation Game,2014,8,73,Morten Tyldum,Benedict Cumberbatch,685201
+Kill Bill: Vol. 2,2004,8,83,Quentin Tarantino,Uma Thurman,683900
+Full Metal Jacket,1987,8.3,76,Stanley Kubrick,Matthew Modine,675146
+How to Train Your Dragon,2010,8.1,75,Dean DeBlois,Chris Sanders,666773
+Captain America: Civil War,2016,7.8,75,Anthony Russo,Joe Russo,663649
+Silver Linings Playbook,2012,7.7,81,David O. Russell,Bradley Cooper,661871
+X-Men: Days of Future Past,2014,7.9,75,Bryan Singer,Patrick Stewart,659763
+Harry Potter and the Sorcerer's Stone,2001,7.6,64,Chris Columbus,Daniel Radcliffe,658185
+The Incredibles,2004,8,90,Brad Bird,Craig T. Nelson,657047
+Aliens,1986,8.3,84,James Cameron,Sigourney Weaver,652719
+Sen to Chihiro no kamikakushi,2001,8.6,96,Hayao Miyazaki,Daveigh Chase,651376
+Logan,2017,8.1,77,James Mangold,Hugh Jackman,647884
+X: First Class,2011,7.7,65,Matthew Vaughn,James McAvoy,645512
+Ratatouille,2007,8,96,Brad Bird,Jan Pinkava,641645
+12 Years a Slave,2013,8.1,96,Steve McQueen,Chiwetel Ejiofor,640533
+The King's Speech,2010,8,88,Tom Hooper,Colin Firth,639603
+District 9,2009,7.9,81,Neill Blomkamp,Sharlto Copley,638202
+Million Dollar Baby,2004,8.1,86,Clint Eastwood,Hilary Swank,635975
+Trainspotting,1996,8.1,83,Danny Boyle,Ewan McGregor,634716
+Skyfall,2012,7.7,81,Sam Mendes,Daniel Craig,630614
+The Social Network,2010,7.7,95,David Fincher,Jesse Eisenberg,624982
+La vita è bella,1997,8.6,59,Roberto Benigni,Roberto Benigni,623629
+Pan's Labyrinth,2006,8.2,98,Guillermo del Toro,Ivana Baquero,618623
+Fargo,1996,8.1,85,Joel Coen,Ethan Coen,617444
+Inside Out,2015,8.1,94,Pete Docter,Ronnie Del Carmen,616228
+Shrek,2001,7.8,84,Andrew Adamson,Vicky Jenson,613941
+Apocalypse Now,1979,8.4,94,Francis Ford Coppola,Martin Sheen,606398
+The Bourne Ultimatum,2007,8,85,Paul Greengrass,Matt Damon,604694
+Psycho,1960,8.5,97,Alfred Hitchcock,Anthony Perkins,604211
+2001: A Space Odyssey,1968,8.3,84,Stanley Kubrick,Keir Dullea,603517
+The Hobbit: The Desolation of Smaug,2013,7.8,66,Peter Jackson,Ian McKellen,601408
+Prisoners,2013,8.1,70,Denis Villeneuve,Hugh Jackman,601149
+Edge of Tomorrow,2014,7.9,71,Doug Liman,Tom Cruise,600004
+Arrival,2016,7.9,81,Denis Villeneuve,Amy Adams,594181
+Kingsman: The Secret Service,2014,7.7,60,Matthew Vaughn,Colin Firth,590440
+The Curious Case of Benjamin Button,2008,7.8,70,David Fincher,Brad Pitt,589160
+Thor: Ragnarok,2017,7.9,74,Taika Waititi,Chris Hemsworth,587775
+Sherlock Holmes,2009,7.6,57,Guy Ritchie,Robert Downey Jr.,583158
+Casino Royale,2006,8,80,Martin Campbell,Daniel Craig,582239
+Life of Pi,2012,7.9,79,Ang Lee,Suraj Sharma,580708
+Birdman or (The Unexpected Virtue of Ignorance),2014,7.7,87,Alejandro G. Iñárritu,Michael Keaton,580291
+Twelve Monkeys,1995,8,74,Terry Gilliam,Bruce Willis,578443
+Groundhog Day,1993,8,72,Harold Ramis,Bill Murray,577991
+Star Trek,2009,7.9,82,J.J. Abrams,Chris Pine,577336
+Heat,1995,8.2,76,Michael Mann,Al Pacino,577113
+Into the Wild,2007,8.1,73,Sean Penn,Emile Hirsch,572921
+Argo,2012,7.7,86,Ben Affleck,Ben Affleck,572581
+Drive,2011,7.8,78,Nicolas Winding Refn,Ryan Gosling,571571
+Guardians of the Galaxy Vol. 2,2017,7.6,67,James Gunn,Chris Pratt,569974
+Taken,2008,7.8,51,Pierre Morel,Liam Neeson,564791
+Rogue One,2016,7.8,65,Gareth Edwards,Felicity Jones,556608
+Dunkirk,2017,7.8,94,Christopher_Nolan,Fionn Whitehead,555092
+Gisaengchung,2019,8.6,96,Bong Joon Ho,Kang-ho Song,552778
+Harry Potter and the Prisoner of Azkaban,2004,7.9,82,Alfonso Cuarón,Daniel Radcliffe,552493
+Once Upon a Time... in Hollywood,2019,7.6,83,Quentin Tarantino,Leonardo DiCaprio,551309
+Harry Potter and the Goblet of Fire,2005,7.7,81,Mike Newell,Daniel Radcliffe,548619
+Jaws,1975,8,87,Steven Spielberg,Roy Scheider,543388
+Her,2013,8,90,Spike Jonze,Joaquin Phoenix,540772
+"Lock, Stock and Two Smoking Barrels",1998,8.2,66,Guy Ritchie,Jason Flemyng,535216
+L.A. Confidential,1997,8.2,90,Curtis Hanson,Kevin Spacey,531967
+Toy Story 2,1999,7.9,88,John Lasseter,Ash Brannon,527512
+Cast Away,2000,7.8,73,Robert Zemeckis,Tom Hanks,524235
+Kick-Ass,2010,7.6,66,Matthew Vaughn,Aaron Taylor-Johnson,524081
+Casablanca,1942,8.5,100,Michael Curtiz,Humphrey Bogart,522093
+The Notebook,2004,7.8,53,Nick Cassavetes,Gena Rowlands,520284
+Zombieland,2009,7.6,73,Ruben Fleischer,Jesse Eisenberg,520041
+Rocky,1976,8.1,70,John G. Avildsen,Sylvester Stallone,518546
+There Will Be Blood,2007,8.2,93,Paul Thomas Anderson,Daniel Day-Lewis,517359
+The Hateful Eight,2015,7.8,68,Quentin Tarantino,Samuel L. Jackson,517059
+Ocean's Eleven,2001,7.7,74,Steven Soderbergh,George Clooney,516372
+Oldeuboi,2003,8.4,77,Chan-wook Park,Choi Min-sik,515451
+Shaun of the Dead,2004,7.9,76,Edgar Wright,Simon Pegg,512249
+The Bourne Identity,2002,7.9,68,Doug Liman,Franka Potente,508771
+Minority Report,2002,7.6,80,Steven Spielberg,Tom Cruise,508417
+La La Land,2016,8,94,Damien Chazelle,Ryan Gosling,505918
+Monty Python and the Holy Grail,1975,8.2,91,Terry Gilliam,Terry Jones,500875
+Despicable Me,2010,7.6,72,Pierre Coffin,Chris Renaud,500851
+Watchmen,2009,7.6,56,Zack Snyder,Jackie Earle Haley,500799
+Blood Diamond,2006,8,64,Edward Zwick,Leonardo DiCaprio,499439
+Get Out,2017,7.7,85,Jordan Peele,Daniel Kaluuya,492851
+American Psycho,2000,7.6,64,Mary Harron,Christian Bale,490062
+Home Alone,1990,7.6,63,Chris Columbus,Macaulay Culkin,488817
+Back to the Future Part II,1989,7.8,57,Robert Zemeckis,Michael J. Fox,481918
+Harry Potter and the Deathly Hallows: Part 1,2010,7.7,65,David Yates,Daniel Radcliffe,479120
+Deadpool 2,2018,7.7,66,David Leitch,Ryan Reynolds,478586
+Harry Potter and the Half-Blood Prince,2009,7.6,78,David Yates,Daniel Radcliffe,474827
+Ex Machina,2014,7.7,78,Alex Garland,Alicia Vikander,474141
+Rain Man,1988,8,65,Barry Levinson,Dustin Hoffman,473064
+(500) Days of Summer,2009,7.7,76,Marc Webb,Zooey Deschanel,472242
+Casino,1995,8.2,73,Martin Scorsese,Robert De Niro,466276
+Nightcrawler,2014,7.9,76,Dan Gilroy,Jake Gyllenhaal,466134
+Zodiac,2007,7.7,78,David Fincher,Jake Gyllenhaal,466080
+Children of Men,2006,7.9,84,Alfonso Cuarón,Julianne Moore,465113
+Hot Fuzz,2007,7.8,81,Edgar Wright,Simon Pegg,463466
+Star Trek Into Darkness,2013,7.7,72,J.J. Abrams,Chris Pine,463188
+The Perks of Being a Wallflower,2012,8,67,Stephen Chbosky,Logan Lerman,462252
+Blade Runner 2049,2017,8,81,Denis Villeneuve,Harrison Ford,461823
+Knives Out,2019,7.9,82,Rian Johnson,Daniel Craig,454203
+The Butterfly Effect,2004,7.6,30,Eric Bress,J. Mackye Gruber,451479
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,97,Stanley Kubrick,Peter Sellers,450474
+Bohemian Rhapsody,2018,8,49,Bryan Singer,Rami Malek,450349
+The Pursuit of Happyness,2006,8,64,Gabriele Muccino,Will Smith,448930
+Edward Scissorhands,1990,7.9,74,Tim Burton,Johnny Depp,447368
+Rear Window,1954,8.4,100,Alfred Hitchcock,James Stewart,444074
+Dallas Buyers Club,2013,8,80,Jean-Marc Vallée,Matthew McConaughey,441614
+Little Miss Sunshine,2006,7.8,80,Jonathan Dayton,Valerie Faris,439856
+Baby Driver,2017,7.6,86,Edgar Wright,Ansel Elgort,439406
+Warrior,2011,8.2,71,Gavin O'Connor,Tom Hardy,435950
+Hacksaw Ridge,2016,8.1,71,Mel Gibson,Andrew Garfield,435928
+The Bourne Supremacy,2004,7.7,73,Paul Greengrass,Matt Damon,434841
+Zootopia,2016,8,78,Byron Howard,Rich Moore,434143
+The Fifth Element,1997,7.7,52,Luc Besson,Bruce Willis,434125
+Rush,2013,8.1,74,Ron Howard,Daniel Brühl,432811
+"Three Billboards Outside Ebbing, Missouri",2017,8.2,88,Martin McDonagh,Frances McDormand,432610
+The Help,2011,8,62,Tate Taylor,Emma Stone,428521
+1917,2019,8.3,78,Sam Mendes,Dean-Charles Chapman,425844
+Dead Poets Society,1989,8.1,79,Peter Weir,Robin Williams,425457
+The Girl with the Dragon Tattoo,2011,7.8,71,David Fincher,Daniel Craig,423010
+Captain Phillips,2013,7.8,82,Paul Greengrass,Tom Hanks,421244
+Spotlight,2015,8.1,93,Tom McCarthy,Mark Ruffalo,420316
+Crash,2004,7.7,66,Paul Haggis,Don Cheadle,419483
+Mystic River,2003,7.9,84,Clint Eastwood,Sean Penn,419420
+Beauty and the Beast,1991,8,95,Gary Trousdale,Kirk Wise,417178
+Big Fish,2003,8,58,Tim Burton,Ewan McGregor,415218
+Lost in Translation,2003,7.7,89,Sofia Coppola,Bill Murray,415074
+Dawn of the Planet of the Apes,2014,7.6,79,Matt Reeves,Gary Oldman,411599
+Big Hero 6,2014,7.8,74,Don Hall,Chris Williams,410983
+Tangled,2010,7.7,71,Nathan Greno,Byron Howard,405922
+It's a Wonderful Life,1946,8.6,89,Frank Capra,James Stewart,405801
+The Theory of Everything,2014,7.7,72,James Marsh,Eddie Redmayne,404182
+Citizen Kane,1941,8.3,100,Orson Welles,Orson Welles,403351
+The Last Samurai,2003,7.7,55,Edward Zwick,Tom Cruise,400049
+The Princess Bride,1987,8,77,Rob Reiner,Cary Elwes,393899
+American Gangster,2007,7.8,76,Ridley Scott,Denzel Washington,392449
+In Bruges,2008,7.9,67,Martin McDonagh,Colin Farrell,390334
+Training Day,2001,7.7,69,Antoine Fuqua,Denzel Washington,390247
+Midnight in Paris,2011,7.7,81,Woody Allen,Owen Wilson,388089
+Coco,2017,8.4,81,Lee Unkrich,Adrian Molina,384171
+Platoon,1986,8.1,92,Oliver Stone,Charlie Sheen,381222
+Wreck-It Ralph,2012,7.7,72,Rich Moore,John C. Reilly,380195
+Saw,2004,7.6,46,James Wan,Cary Elwes,379020
+Green Book,2018,8.2,69,Peter Farrelly,Viggo Mortensen,377884
+28 Days Later...,2002,7.6,73,Danny Boyle,Cillian Murphy,376853
+Unforgiven,1992,8.2,85,Clint Eastwood,Clint Eastwood,375935
+Spider-Man: Into the Spider-Verse,2018,8.4,87,Bob Persichetti,Peter Ramsey,375110
+Aladdin,1992,8,86,Ron Clements,John Musker,373845
+E.T. the Extra-Terrestrial,1982,7.8,91,Steven Spielberg,Henry Thomas,372490
+Room,2015,8.1,86,Lenny Abrahamson,Brie Larson,371538
+Predator,1987,7.8,45,John McTiernan,Arnold Schwarzenegger,371387
+The Wizard of Oz,1939,8,92,Victor Fleming,George Cukor,371379
+Sicario,2015,7.6,82,Denis Villeneuve,Emily Blunt,371291
+The Thing,1982,8.1,57,John Carpenter,Kurt Russell,371271
+Moneyball,2011,7.6,87,Bennett Miller,Brad Pitt,369529
+Amadeus,1984,8.3,88,Milos Forman,F. Murray Abraham,369007
+Life of Brian,1979,8.1,77,Terry Jones,Graham Chapman,367250
+Die Hard: With a Vengeance,1995,7.6,58,John McTiernan,Bruce Willis,364420
+Vertigo,1958,8.3,100,Alfred Hitchcock,James Stewart,364368
+Black Hawk Down,2001,7.7,74,Ridley Scott,Josh Hartnett,364254
+Stand by Me,1986,8.1,75,Rob Reiner,Wil Wheaton,363401
+The Big Short,2015,7.8,81,Adam McKay,Christian Bale,362942
+The Exorcist,1973,8,81,William Friedkin,Ellen Burstyn,362393
+The Godfather: Part III,1990,7.6,60,Francis Ford Coppola,Al Pacino,359809
+The Lives of Others,2006,8.4,89,Florian Henckel von Donnersmarck,Ulrich Mühe,358685
+The Machinist,2004,7.7,61,Brad Anderson,Christian Bale,358432
+The Breakfast Club,1985,7.8,66,John Hughes,Emilio Estevez,357026
+Ghostbusters,1984,7.8,71,Ivan Reitman,Bill Murray,355413
+The Illusionist,2006,7.6,68,Neil Burger,Edward Norton,354728
+The Game,1997,7.8,61,David Fincher,Michael Douglas,345096
+3 Idiots,2009,8.4,67,Rajkumar Hirani,Aamir Khan,344445
+The Fault in Our Stars,2014,7.7,69,Josh Boone,Shailene Woodley,344312
+Mononoke-hime,1997,8.4,76,Hayao Miyazaki,Yôji Matsuda,343171
+The Fighter,2010,7.8,79,David O. Russell,Mark Wahlberg,340584
+Inside Man,2006,7.6,76,Spike Lee,Denzel Washington,339757
+The Others,2001,7.6,74,Alejandro Amenábar,Nicole Kidman,337651
+Boyhood,2014,7.9,100,Richard Linklater,Ellar Coltrane,335533
+Moon,2009,7.9,67,Duncan Jones,Sam Rockwell,335152
+Hotel Rwanda,2004,8.1,79,Terry George,Don Cheadle,334320
+A Star Is Born,2018,7.6,88,Bradley Cooper,Lady Gaga,334312
+Hauru no ugoku shiro,2004,8.2,80,Hayao Miyazaki,Chieko Baishô,333915
+Der Untergang,2004,8.2,82,Oliver Hirschbiegel,Bruno Ganz,331308
+Man on Fire,2004,7.7,47,Tony Scott,Denzel Washington,329592
+The Irishman,2019,7.9,94,Martin Scorsese,Robert De Niro,324720
+The Lego Movie,2014,7.7,83,Christopher Miller,Phil Lord,323982
+Brokeback Mountain,2005,7.7,87,Ang Lee,Jake Gyllenhaal,323103
+Mulholland Dr.,2001,7.9,85,David Lynch,Naomi Watts,322031
+Raging Bull,1980,8.2,89,Martin Scorsese,Robert De Niro,321860
+Ferris Bueller's Day Off,1986,7.8,61,John Hughes,Matthew Broderick,321382
+Moonrise Kingdom,2012,7.8,84,Wes Anderson,Jared Gilman,318789
+Shichinin no samurai,1954,8.6,98,Akira Kurosawa,Toshirô Mifune,315744
+50/50,2011,7.6,72,Jonathan Levine,Joseph Gordon-Levitt,315426
+Being John Malkovich,1999,7.7,90,Spike Jonze,John Cusack,312542
+True Grit,2010,7.6,80,Ethan Coen,Joel Coen,311822
+The Deer Hunter,1978,8.1,86,Michael Cimino,Robert De Niro,311361
+How to Train Your Dragon 2,2014,7.8,76,Dean DeBlois,Jay Baruchel,305611
+About Time,2013,7.8,55,Richard Curtis,Domhnall Gleeson,303032
+Once Upon a Time in the West,1968,8.5,80,Sergio Leone,Henry Fonda,302844
+The Nightmare Before Christmas,1993,8,82,Henry Selick,Danny Elfman,300208
+Lucky Number Slevin,2006,7.7,53,Paul McGuigan,Josh Hartnett,299524
+North by Northwest,1959,8.3,98,Alfred Hitchcock,Cary Grant,299198
+Jojo Rabbit,2019,7.9,58,Taika Waititi,Roman Griffin Davis,297918
+Chinatown,1974,8.1,92,Roman Polanski,Jack Nicholson,294230
+Lord of War,2005,7.6,62,Andrew Niccol,Nicolas Cage,294140
+To Kill a Mockingbird,1962,8.2,88,Robert Mulligan,Gregory Peck,293811
+The Blind Side,2009,7.6,53,John Lee Hancock,Quinton Aaron,293266
+Ford v Ferrari,2019,8.1,81,James Mangold,Matt Damon,291289
+Mission: Impossible - Fallout,2018,7.7,86,Christopher McQuarrie,Tom Cruise,291257
+Tonari no Totoro,1988,8.2,86,Hayao Miyazaki,Hitoshi Takagi,291180
+Apocalypto,2006,7.8,68,Mel Gibson,Gerardo Taracena,291018
+Gone with the Wind,1939,8.1,97,Victor Fleming,George Cukor,290074
+Magnolia,1999,8,77,Paul Thomas Anderson,Tom Cruise,289742
+The Wrestler,2008,7.9,80,Darren Aronofsky,Mickey Rourke,289415
+3:10 to Yuma,2007,7.7,76,James Mangold,Russell Crowe,288797
+Bridge of Spies,2015,7.6,81,Steven Spielberg,Tom Hanks,287659
+Seven Pounds,2008,7.6,36,Gabriele Muccino,Will Smith,286770
+"O Brother, Where Art Thou?",2000,7.7,69,Joel Coen,Ethan Coen,286742
+Serenity,2005,7.8,74,Joss Whedon,Nathan Fillion,283310
+The Untouchables,1987,7.9,79,Brian De Palma,Kevin Costner,281842
+Jagten,2012,8.3,77,Thomas Vinterberg,Mads Mikkelsen,281623
+Gattaca,1997,7.8,64,Andrew Niccol,Ethan Hawke,280845
+Donnie Brasco,1997,7.7,76,Mike Newell,Al Pacino,279318
+As Good as It Gets,1997,7.7,67,James L. Brooks,Jack Nicholson,275755
+Moana,2016,7.6,81,Ron Clements,John Musker,272784
+Before Sunrise,1995,8.1,77,Richard Linklater,Ethan Hawke,272291
+Apollo 13,1995,7.6,77,Ron Howard,Tom Hanks,269197
+Lawrence of Arabia,1962,8.3,100,David Lean,Peter O'Toole,268085
+The Fugitive,1993,7.8,87,Andrew Davis,Harrison Ford,267684
+The Royal Tenenbaums,2001,7.6,76,Wes Anderson,Gene Hackman,266842
+Scent of a Woman,1992,8,59,Martin Brest,Al Pacino,263918
+Fear and Loathing in Las Vegas,1998,7.6,41,Terry Gilliam,Johnny Depp,259753
+Pride & Prejudice,2005,7.8,82,Joe Wright,Keira Knightley,258924
+Mulan,1998,7.6,71,Tony Bancroft,Barry Cook,256906
+Stardust,2007,7.6,66,Matthew Vaughn,Charlie Cox,255036
+The Graduate,1967,8,83,Mike Nichols,Dustin Hoffman,253676
+Wo hu cang long,2000,7.8,94,Ang Lee,Yun-Fat Chow,253228
+Almost Famous,2000,7.9,90,Cameron Crowe,Billy Crudup,252586
+Annie Hall,1977,8,92,Woody Allen,Woody Allen,251823
+Atonement,2007,7.8,85,Joe Wright,Keira Knightley,251370
+Gone Baby Gone,2007,7.6,72,Ben Affleck,Morgan Freeman,250590
+Incredibles 2,2018,7.6,80,Brad Bird,Craig T. Nelson,250057
+Creed,2015,7.6,82,Ryan Coogler,Michael B. Jordan,247666
+Manchester by the Sea,2016,7.8,96,Kenneth Lonergan,Casey Affleck,246963
+Road to Perdition,2002,7.7,72,Sam Mendes,Tom Hanks,246840
+Marriage Story,2019,7.9,94,Noah Baumbach,Adam Driver,246644
+The Goonies,1985,7.8,62,Richard Donner,Sean Astin,244430
+Some Like It Hot,1959,8.2,98,Billy Wilder,Marilyn Monroe,243943
+Enemy at the Gates,2001,7.6,53,Jean-Jacques Annaud,Jude Law,243729
+Office Space,1999,7.7,68,Mike Judge,Ron Livingston,241575
+The Sting,1973,8.3,83,George Roy Hill,Paul Newman,241513
+Blow,2001,7.6,52,Ted Demme,Johnny Depp,240714
+Dances with Wolves,1990,8,72,Kevin Costner,Kevin Costner,240266
+Boogie Nights,1997,7.9,85,Paul Thomas Anderson,Mark Wahlberg,239473
+Changeling,2008,7.7,63,Clint Eastwood,Angelina Jolie,239203
+The Little Mermaid,1989,7.6,88,Ron Clements,John Musker,237696
+The Gentlemen,2019,7.8,51,Guy Ritchie,Matthew McConaughey,237392
+Lethal Weapon,1987,7.6,68,Richard Donner,Mel Gibson,236894
+Before Sunset,2004,8.1,90,Richard Linklater,Ethan Hawke,236311
+Dog Day Afternoon,1975,8,86,Sidney Lumet,Al Pacino,235652
+A Few Good Men,1992,7.7,62,Rob Reiner,Tom Cruise,235388
+Hotaru no haka,1988,8.5,94,Isao Takahata,Tsutomu Tatsumi,235231
+Walk the Line,2005,7.8,72,James Mangold,Joaquin Phoenix,234207
+Halloween,1978,7.7,87,John Carpenter,Donald Pleasence,233106
+Per qualche dollaro in più,1965,8.3,74,Sergio Leone,Clint Eastwood,232772
+Das Boot,1981,8.3,86,Wolfgang Petersen,Jürgen Prochnow,231855
+Nuovo Cinema Paradiso,1988,8.5,80,Giuseppe Tornatore,Philippe Noiret,230763
+The Artist,2011,7.9,89,Michel Hazanavicius,Jean Dujardin,230624
+End of Watch,2012,7.6,68,David Ayer,Jake Gyllenhaal,228132
+Eastern Promises,2007,7.6,82,David Cronenberg,Naomi Watts,227760
+The Boondock Saints,1999,7.8,44,Troy Duffy,Willem Dafoe,227143
+First Blood,1982,7.7,61,Ted Kotcheff,Sylvester Stallone,226541
+The Great Escape,1963,8.2,86,John Sturges,Steve McQueen,224730
+21 Grams,2003,7.6,70,Alejandro G. Iñárritu,Sean Penn,224545
+Philadelphia,1993,7.7,66,Jonathan Demme,Tom Hanks,224169
+Amores perros,2000,8.1,83,Alejandro G. Iñárritu,Emilio Echevarría,223741
+The Elephant Man,1980,8.1,78,David Lynch,Anthony Hopkins,220078
+Jodaeiye Nader az Simin,2011,8.3,95,Asghar Farhadi,Payman Maadi,220002
+Ben-Hur,1959,8.1,90,William Wyler,Charlton Heston,219466
+Singin' in the Rain,1952,8.3,99,Stanley Donen,Gene Kelly,218957
+Modern Times,1936,8.5,96,Charles Chaplin,Charles Chaplin,217881
+Gandhi,1982,8,79,Richard Attenborough,Ben Kingsley,217664
+Mr. Nobody,2009,7.8,63,Jaco Van Dormael,Jared Leto,216421
+What's Eating Gilbert Grape,1993,7.8,73,Lasse Hallström,Johnny Depp,215034
+Airplane!,1980,7.7,78,Jim Abrahams,David Zucker,214882
+Lion,2016,8,69,Garth Davis,Dev Patel,213970
+Call Me by Your Name,2017,7.9,93,Luca Guadagnino,Armie Hammer,212651
+Clerks,1994,7.7,70,Kevin Smith,Brian O'Halloran,211450
+Yip Man,2008,8,59,Wilson Yip,Donnie Yen,211427
+Män som hatar kvinnor,2009,7.8,76,Niels Arden Oplev,Michael Nyqvist,208994
+True Romance,1993,7.9,59,Tony Scott,Christian Slater,206918
+Match Point,2005,7.6,72,Woody Allen,Scarlett Johansson,206294
+Låt den rätte komma in,2008,7.9,82,Tomas Alfredson,Kåre Hedebrant,205609
+Wind River,2017,7.7,73,Taylor Sheridan,Kelsey Asbille,205444
+The Sound of Music,1965,8,63,Robert Wise,Julie Andrews,205425
+Hell or High Water,2016,7.6,88,David Mackenzie,Chris Pine,204175
+The Bridge on the River Kwai,1957,8.1,87,David Lean,William Holden,203463
+Toy Story 4,2019,7.8,84,Josh Cooley,Tom Hanks,203177
+Butch Cassidy and the Sundance Kid,1969,8,66,George Roy Hill,Paul Newman,201888
+Carlito's Way,1993,7.9,65,Brian De Palma,Al Pacino,201000
+Hidden Figures,2016,7.8,74,Theodore Melfi,Taraji P. Henson,200876
+Fantastic Mr. Fox,2009,7.9,83,Wes Anderson,George Clooney,199696
+Finding Neverland,2004,7.6,67,Marc Forster,Johnny Depp,198677
+Per un pugno di dollari,1964,8,65,Sergio Leone,Clint Eastwood,198219
+Remember the Titans,2000,7.8,48,Boaz Yakin,Denzel Washington,198089
+Coraline,2009,7.7,80,Henry Selick,Dakota Fanning,197761
+When Harry Met Sally...,1989,7.6,76,Rob Reiner,Billy Crystal,195663
+Kimi no na wa.,2016,8.4,79,Makoto Shinkai,Ryûnosuke Kamiki,194838
+Rosemary's Baby,1968,8,96,Roman Polanski,Mia Farrow,193674
+El secreto de sus ojos,2009,8.2,80,Juan José Campanella,Ricardo Darín,193217
+"South Park: Bigger, Longer & Uncut",1999,7.7,73,Trey Parker,Trey Parker,192112
+The Boy in the Striped Pyjamas,2008,7.8,55,Mark Herman,Asa Butterfield,190748
+Serbuan maut,2011,7.6,73,Gareth Evans,Iko Uwais,190531
+Primal Fear,1996,7.7,47,Gregory Hoblit,Richard Gere,189716
+Captain Fantastic,2016,7.9,72,Matt Ross,Viggo Mortensen,189400
+Lola rennt,1998,7.6,77,Tom Tykwer,Franka Potente,188317
+Dark City,1998,7.6,66,Alex Proyas,Rufus Sewell,187927
+Brazil,1985,7.9,84,Terry Gilliam,Jonathan Pryce,187567
+Sleepers,1996,7.6,49,Barry Levinson,Robert De Niro,186734
+Close Encounters of the Third Kind,1977,7.6,90,Steven Spielberg,Richard Dreyfuss,184966
+Misery,1990,7.8,75,Rob Reiner,James Caan,184740
+The Blues Brothers,1980,7.9,60,John Landis,John Belushi,183182
+Who Framed Roger Rabbit,1988,7.7,83,Robert Zemeckis,Bob Hoskins,182009
+Blue Velvet,1986,7.7,76,David Lynch,Isabella Rossellini,181285
+Straight Outta Compton,2015,7.8,72,F. Gary Gray,O'Shea Jackson Jr.,179264
+Willy Wonka & the Chocolate Factory,1971,7.8,67,Mel Stuart,Gene Wilder,178731
+Adaptation.,2002,7.7,83,Spike Jonze,Nicolas Cage,178565
+Paths of Glory,1957,8.4,90,Stanley Kubrick,Kirk Douglas,178092
+Relatos salvajes,2014,8.1,77,Damián Szifron,Darío Grandinetti,177059
+Cinderella Man,2005,8,69,Ron Howard,Russell Crowe,176151
+The Last King of Scotland,2006,7.7,74,Kevin Macdonald,James McAvoy,175355
+Goldfinger,1964,7.7,87,Guy Hamilton,Sean Connery,174119
+Ying xiong,2002,7.9,85,Yimou Zhang,Jet Li,173999
+The Thin Red Line,1998,7.6,78,Terrence Malick,Jim Caviezel,172710
+The Iron Giant,1999,8,85,Brad Bird,Eli Marienthal,172083
+The Birds,1963,7.7,90,Alfred Hitchcock,Rod Taylor,171739
+Falling Down,1993,7.6,56,Joel Schumacher,Michael Douglas,171640
+25th Hour,2002,7.6,68,Spike Lee,Edward Norton,169708
+Rushmore,1998,7.7,86,Wes Anderson,Jason Schwartzman,169229
+Batoru rowaiaru,2000,7.6,81,Kinji Fukasaku,Tatsuya Fujiwara,169091
+City Lights,1931,8.5,99,Charles Chaplin,Charles Chaplin,167839
+Mad Max 2,1981,7.6,77,George Miller,Mel Gibson,166588
+Breakfast at Tiffany's,1961,7.6,76,Blake Edwards,Audrey Hepburn,166544
+The Jungle Book,1967,7.6,65,Wolfgang Reitherman,Phil Harris,166409
+Dazed and Confused,1993,7.6,78,Richard Linklater,Jason London,165465
+Planet of the Apes,1968,8,79,Franklin J. Schaffner,Charlton Heston,165167
+Det sjunde inseglet,1957,8.2,88,Ingmar Bergman,Max von Sydow,164939
+Ed Wood,1994,7.8,70,Tim Burton,Johnny Depp,164937
+The Apartment,1960,8.3,94,Billy Wilder,Jack Lemmon,164363
+Cool Hand Luke,1967,8.1,92,Stuart Rosenberg,Paul Newman,161984
+Metropolis,1927,8.3,98,Fritz Lang,Brigitte Helm,159992
+The Insider,1999,7.8,84,Michael Mann,Russell Crowe,159886
+Soul,2020,8.1,83,Pete Docter,Kemp Powers,159171
+The Third Man,1949,8.1,97,Carol Reed,Orson Welles,158731
+Dial M for Murder,1954,8.2,75,Alfred Hitchcock,Ray Milland,158335
+Mary Poppins,1964,7.8,88,Robert Stevenson,Julie Andrews,158029
+What We Do in the Shadows,2014,7.7,76,Jemaine Clement,Taika Waititi,157498
+In the Name of the Father,1993,8.1,84,Jim Sheridan,Daniel Day-Lewis,156842
+Letters from Iwo Jima,2006,7.9,89,Clint Eastwood,Ken Watanabe,154011
+The Naked Gun: From the Files of Police Squad!,1988,7.6,76,David Zucker,Leslie Nielsen,152871
+Rashômon,1950,8.2,98,Akira Kurosawa,Toshirô Mifune,152572
+Kaze no tani no Naushika,1984,8.1,86,Hayao Miyazaki,Sumi Shimamoto,150924
+The Last of the Mohicans,1992,7.7,76,Michael Mann,Daniel Day-Lewis,150409
+Tenkû no shiro Rapyuta,1986,8,78,Hayao Miyazaki,Mayumi Tanaka,150140
+Incendies,2010,8.3,80,Denis Villeneuve,Lubna Azabal,150023
+Barry Lyndon,1975,8.1,89,Stanley Kubrick,Ryan O'Neal,149843
+The Maltese Falcon,1941,8,96,John Huston,Humphrey Bogart,148928
+Evil Dead II,1987,7.8,72,Sam Raimi,Bruce Campbell,148359
+Network,1976,8.1,83,Sidney Lumet,Faye Dunaway,144911
+Double Indemnity,1944,8.3,95,Billy Wilder,Fred MacMurray,143525
+Young Frankenstein,1974,8,80,Mel Brooks,Gene Wilder,143359
+Dirty Harry,1971,7.7,90,Don Siegel,Clint Eastwood,143292
+Little Women,2019,7.8,91,Greta Gerwig,Saoirse Ronan,143250
+I Am Sam,2001,7.7,28,Jessie Nelson,Sean Penn,142863
+JFK,1991,8,72,Oliver Stone,Kevin Costner,142110
+On the Waterfront,1954,8.1,91,Elia Kazan,Marlon Brando,142107
+Wonder,2017,8,66,Stephen Chbosky,Jacob Tremblay,141923
+Before Midnight,2013,7.9,94,Richard Linklater,Ethan Hawke,141457
+Searching,2018,7.6,71,Aneesh Chaganty,John Cho,140840
+Roma,2018,7.7,96,Alfonso Cuarón,Yalitza Aparicio,140375
+Salinui chueok,2003,8.1,82,Bong Joon Ho,Kang-ho Song,139558
+Isle of Dogs,2018,7.9,82,Wes Anderson,Bryan Cranston,139114
+La piel que habito,2011,7.6,70,Pedro Almodóvar,Antonio Banderas,138959
+La vie d'Adèle,2013,7.7,89,Abdellatif Kechiche,Léa Seydoux,138741
+Ray,2004,7.7,73,Taylor Hackford,Jamie Foxx,138356
+Good Bye Lenin!,2003,7.7,68,Wolfgang Becker,Daniel Brühl,137981
+Dogville,2003,8,60,Lars von Trier,Nicole Kidman,137963
+Kramer vs. Kramer,1979,7.8,77,Robert Benton,Dustin Hoffman,133351
+A Christmas Story,1983,7.9,77,Bob Clark,Peter Billingsley,132947
+Manhattan,1979,7.9,83,Woody Allen,Woody Allen,131436
+Lost Highway,1997,7.6,52,David Lynch,Bill Pullman,131101
+Rope,1948,8,73,Alfred Hitchcock,James Stewart,129783
+Kôkaku Kidôtai,1995,8,76,Mamoru Oshii,Atsuko Tanaka,129231
+The Count of Monte Cristo,2002,7.8,61,Kevin Reynolds,Jim Caviezel,129022
+This Is Spinal Tap,1984,7.9,92,Rob Reiner,Rob Reiner,128812
+A Bronx Tale,1993,7.8,80,Robert De Niro,Robert De Niro,128171
+Roman Holiday,1953,8,78,William Wyler,Gregory Peck,127256
+Kung fu,2004,7.7,78,Stephen Chow,Stephen Chow,127250
+Tombstone,1993,7.8,50,George P. Cosmatos,Kevin Jarre,126871
+Billy Elliot,2000,7.7,74,Stephen Daldry,Jamie Bell,126770
+Boyz n the Hood,1991,7.8,76,John Singleton,Cuba Gooding Jr.,126082
+Blazing Saddles,1974,7.7,73,Mel Brooks,Cleavon Little,125993
+Miller's Crossing,1990,7.7,66,Joel Coen,Ethan Coen,125822
+Gake no ue no Ponyo,2008,7.7,86,Hayao Miyazaki,Cate Blanchett,125317
+Awakenings,1990,7.8,74,Penny Marshall,Robert De Niro,125276
+"Planes, Trains & Automobiles",1987,7.6,72,John Hughes,Steve Martin,124773
+Fa yeung nin wah,2000,8.1,85,Kar-Wai Wong,Tony Chiu-Wai Leung,124383
+Spartacus,1960,7.9,87,Stanley Kubrick,Kirk Douglas,124339
+Majo no takkyûbin,1989,7.8,83,Hayao Miyazaki,Kirsten Dunst,124193
+Rebecca,1940,8.1,86,Alfred Hitchcock,Laurence Olivier,123942
+Strangers on a Train,1951,7.9,88,Alfred Hitchcock,Farley Granger,123341
+Me and Earl and the Dying Girl,2015,7.7,74,Alfonso Gomez-Rejon,Thomas Mann,123210
+Glory,1989,7.8,78,Edward Zwick,Matthew Broderick,122779
+Escape from Alcatraz,1979,7.6,76,Don Siegel,Clint Eastwood,121731
+Papillon,1973,8,58,Franklin J. Schaffner,Steve McQueen,121627
+All About Eve,1950,8.2,98,Joseph L. Mankiewicz,Bette Davis,120539
+Kubo and the Two Strings,2016,7.8,84,Travis Knight,Charlize Theron,118035
+Mou gaan dou,2002,8,75,Andrew Lau,Alan Mak,117857
+Night of the Living Dead,1968,7.9,89,George A. Romero,Duane Jones,116557
+Y tu mamá también,2001,7.6,88,Alfonso Cuarón,Maribel Verdú,115827
+Empire of the Sun,1987,7.7,62,Steven Spielberg,Christian Bale,115677
+This Is England,2006,7.7,86,Shane Meadows,Thomas Turgoose,115576
+Serbuan maut 2: Berandal,2014,8,71,Gareth Evans,Iko Uwais,114316
+The Treasure of the Sierra Madre,1948,8.2,98,John Huston,Humphrey Bogart,114304
+Ah-ga-ssi,2016,8.1,84,Chan-wook Park,Kim Min-hee,113649
+Barton Fink,1991,7.7,69,Joel Coen,Ethan Coen,113240
+Star Trek II: The Wrath of Khan,1982,7.7,67,Nicholas Meyer,William Shatner,112704
+Ran,1985,8.2,96,Akira Kurosawa,Tatsuya Nakadai,112505
+Nebraska,2013,7.7,87,Alexander Payne,Bruce Dern,112298
+Dawn of the Dead,1978,7.9,71,George A. Romero,David Emge,111512
+Hunt for the Wilderpeople,2016,7.9,81,Taika Waititi,Sam Neill,111483
+Ang-ma-reul bo-at-da,2010,7.8,67,Jee-woon Kim,Lee Byung-Hun,111252
+Once,2007,7.8,88,John Carney,Glen Hansard,110656
+The French Connection,1971,7.7,94,William Friedkin,Gene Hackman,110075
+Serpico,1973,7.7,87,Sidney Lumet,Al Pacino,109941
+8½,1963,8,91,Federico Fellini,Marcello Mastroianni,108844
+La migliore offerta,2013,7.8,49,Giuseppe Tornatore,Geoffrey Rush,108399
+My Cousin Vinny,1992,7.6,68,Jonathan Lynn,Joe Pesci,107325
+The Fall,2006,7.9,64,Tarsem Singh,Lee Pace,107290
+Mr. Smith Goes to Washington,1939,8.1,73,Frank Capra,James Stewart,107017
+Lagaan: Once Upon a Time in India,2001,8.1,84,Ashutosh Gowariker,Aamir Khan,105036
+Klaus,2019,8.2,65,Sergio Pablos,Carlos Martínez López,104761
+Hable con ella,2002,7.9,86,Pedro Almodóvar,Rosario Flores,104691
+Frost/Nixon,2008,7.7,80,Ron Howard,Frank Langella,103330
+Le scaphandre et le papillon,2007,8,92,Julian Schnabel,Laura Obiols,103284
+Persona,1966,8.1,86,Ingmar Bergman,Bibi Andersson,103191
+All the President's Men,1976,7.9,84,Alan J. Pakula,Dustin Hoffman,103031
+Sense and Sensibility,1995,7.6,84,Ang Lee,Emma Thompson,102598
+Bonnie and Clyde,1967,7.8,86,Arthur Penn,Warren Beatty,102415
+Dancer in the Dark,2000,8,61,Lars von Trier,Björk,102285
+Der Name der Rose,1986,7.7,54,Jean-Jacques Annaud,Sean Connery,102031
+Midnight Cowboy,1969,7.8,79,John Schlesinger,Dustin Hoffman,101124
+Gifted,2017,7.6,60,Marc Webb,Chris Evans,99643
+A Streetcar Named Desire,1951,8,97,Elia Kazan,Vivien Leigh,99182
+Deliverance,1972,7.7,80,John Boorman,Jon Voight,98740
+The Conversation,1974,7.8,85,Francis Ford Coppola,Gene Hackman,98611
+My Name Is Khan,2010,8,50,Karan Johar,Shah Rukh Khan,98575
+Touch of Evil,1958,8,99,Orson Welles,Charlton Heston,98431
+Tropa de Elite,2007,8,33,José Padilha,Wagner Moura,98097
+High Noon,1952,7.9,89,Fred Zinnemann,Gary Cooper,97222
+Diarios de motocicleta,2004,7.8,75,Walter Salles,Gael García Bernal,96703
+Enter the Dragon,1973,7.7,83,Robert Clouse,Bruce Lee,96561
+Smultronstället,1957,8.2,88,Ingmar Bergman,Victor Sjöström,96381
+Glengarry Glen Ross,1992,7.7,82,James Foley,Al Pacino,95826
+The Florida Project,2017,7.6,92,Sean Baker,Brooklynn Prince,95181
+The Last Emperor,1987,7.7,76,Bernardo Bertolucci,John Lone,94326
+Philomena,2013,7.6,77,Stephen Frears,Judi Dench,94212
+It Happened One Night,1934,8.1,87,Frank Capra,Clark Gable,94016
+The Warriors,1979,7.6,65,Walter Hill,Michael Beck,93878
+Patton,1970,7.9,91,Franklin J. Schaffner,George C. Scott,93741
+Un prophète,2009,7.9,90,Jacques Audiard,Tahar Rahim,93560
+Amour,2012,7.9,94,Michael Haneke,Jean-Louis Trintignant,93090
+Notorious,1946,7.9,100,Alfred Hitchcock,Cary Grant,92306
+The Hurricane,1999,7.6,74,Norman Jewison,Denzel Washington,91557
+"Paris, Texas",1984,8.1,78,Wim Wenders,Harry Dean Stanton,91188
+Das Experiment,2001,7.7,60,Oliver Hirschbiegel,Moritz Bleibtreu,90842
+Trois couleurs: Rouge,1994,8.1,100,Krzysztof Kieslowski,Irène Jacob,90729
+Dead Man,1995,7.6,62,Jim Jarmusch,Johnny Depp,90442
+The Trial of the Chicago 7,2020,7.8,77,Aaron Sorkin,Eddie Redmayne,89896
+Trois couleurs: Bleu,1993,7.9,85,Krzysztof Kieslowski,Juliette Binoche,89836
+Do the Right Thing,1989,8,93,Spike Lee,Danny Aiello,89429
+Todo sobre mi madre,1999,7.8,87,Pedro Almodóvar,Cecilia Roth,89058
+Fantasia,1940,7.7,96,James Algar,Samuel Armstrong,88662
+Persepolis,2007,8,90,Vincent Paronnaud,Marjane Satrapi,88656
+The King of Comedy,1982,7.8,73,Martin Scorsese,Robert De Niro,88511
+Mississippi Burning,1988,7.8,65,Alan Parker,Gene Hackman,88214
+Blood Simple,1984,7.6,82,Joel Coen,Ethan Coen,87745
+The Magnificent Seven,1960,7.7,74,John Sturges,Yul Brynner,87719
+Sling Blade,1996,8,84,Billy Bob Thornton,Billy Bob Thornton,86838
+My Fair Lady,1964,7.8,95,George Cukor,Audrey Hepburn,86525
+Malcolm X,1992,7.7,73,Spike Lee,Denzel Washington,85819
+The Grapes of Wrath,1940,8,96,John Ford,Henry Fonda,85559
+Sing Street,2016,7.9,79,John Carney,Ferdia Walsh-Peelo,85109
+Rebel Without a Cause,1955,7.7,89,Nicholas Ray,James Dean,83363
+"Synecdoche, New York",2008,7.6,67,Charlie Kaufman,Philip Seymour Hoffman,83158
+October Sky,1999,7.8,71,Joe Johnston,Jake Gyllenhaal,82855
+La Vie En Rose,2007,7.6,66,Olivier Dahan,Marion Cotillard,82781
+Gangs of Wasseypur,2012,8.2,89,Anurag Kashyap,Manoj Bajpayee,82365
+The Straight Story,1999,8,86,David Lynch,Richard Farnsworth,82002
+The Night of the Hunter,1955,8,99,Charles Laughton,Robert Mitchum,81980
+Short Term 12,2013,8,82,Destin Daniel Cretton,Brie Larson,81770
+The Killing,1956,8,91,Stanley Kubrick,Sterling Hayden,81702
+Flipped,2010,7.7,45,Rob Reiner,Madeline Carroll,81446
+La grande bellezza,2013,7.8,86,Paolo Sorrentino,Toni Servillo,81125
+Solaris,1972,8.1,90,Andrei Tarkovsky,Natalya Bondarchuk,81021
+Kari-gurashi no Arietti,2010,7.6,80,Hiromasa Yonebayashi,Amy Poehler,80939
+Delicatessen,1991,7.6,66,Marc Caro,Jean-Pierre Jeunet,80487
+The Searchers,1956,7.9,94,John Ford,John Wayne,80316
+Tropa de Elite 2: O Inimigo Agora é Outro,2010,8,71,José Padilha,Wagner Moura,79200
+King Kong,1933,7.9,90,Merian C. Cooper,Ernest B. Schoedsack,78991
+The Sandlot,1993,7.8,55,David Mickey Evans,Tom Guiry,78963
+Festen,1998,8,82,Thomas Vinterberg,Ulrich Thomsen,78341
+The Color Purple,1985,7.8,78,Steven Spielberg,Danny Glover,78321
+Kurenai no buta,1992,7.7,83,Hayao Miyazaki,Shûichirô Moriyama,77798
+Mar adentro,2014,8,74,Alejandro Amenábar,Javier Bardem,77554
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom,2003,8,85,Ki-duk Kim,Ki-duk Kim,77520
+The Wild Bunch,1969,7.9,97,Sam Peckinpah,William Holden,77401
+Detachment,2011,7.7,52,Tony Kaye,Adrien Brody,77071
+Pink Floyd: The Wall,1982,8.1,47,Alan Parker,Bob Geldof,76081
+The Hustler,1961,8,90,Robert Rossen,Paul Newman,75067
+Chak De! India,2007,8.2,68,Shimit Amin,Shah Rukh Khan,74129
+Beasts of No Nation,2015,7.7,79,Cary Joji Fukunaga,Abraham Attah,73964
+Kaze tachinu,2013,7.8,83,Hayao Miyazaki,Hideaki Anno,73690
+Midnight Express,1978,7.6,59,Alan Parker,Brad Davis,73662
+The Bridges of Madison County,1995,7.6,69,Clint Eastwood,Clint Eastwood,73172
+Huo Yuan Jia,2006,7.6,70,Ronny Yu,Jet Li,72863
+Zwartboek,2006,7.7,71,Paul Verhoeven,Carice van Houten,72643
+The African Queen,1951,7.7,91,John Huston,Humphrey Bogart,71481
+Papurika,2006,7.7,81,Satoshi Kon,Megumi Hayashibara,71379
+The Manchurian Candidate,1962,7.9,94,John Frankenheimer,Frank Sinatra,71122
+Un long dimanche de fiançailles,2004,7.6,76,Jean-Pierre Jeunet,Audrey Tautou,70925
+Harold and Maude,1971,7.9,62,Hal Ashby,Ruth Gordon,70826
+Doctor Zhivago,1965,8,69,David Lean,Omar Sharif,69903
+Judgment at Nuremberg,1961,8.2,60,Stanley Kramer,Spencer Tracy,69458
+Who's Afraid of Virginia Woolf?,1966,8,75,Mike Nichols,Elizabeth Taylor,68926
+The Man Who Shot Liberty Valance,1962,8.1,94,John Ford,James Stewart,68827
+Das weiße Band - Eine deutsche Kindergeschichte,2009,7.8,82,Michael Haneke,Christian Friedel,68715
+Charade,1963,7.9,83,Stanley Donen,Cary Grant,68689
+My Left Foot: The Story of Christy Brown,1989,7.9,97,Jim Sheridan,Daniel Day-Lewis,68076
+In the Heat of the Night,1967,7.9,75,Norman Jewison,Sidney Poitier,67804
+The Station Agent,2003,7.6,81,Tom McCarthy,Peter Dinklage,67370
+Jeux d'enfants,2003,7.6,45,Yann Samuell,Guillaume Canet,67360
+The Dirty Dozen,1967,7.7,73,Robert Aldrich,Lee Marvin,67183
+Hannah and Her Sisters,1986,7.9,90,Woody Allen,Mia Farrow,67176
+Fried Green Tomatoes,1991,7.7,64,Jon Avnet,Kathy Bates,66941
+La dolce vita,1960,8,95,Federico Fellini,Marcello Mastroianni,66621
+Happiness,1998,7.7,81,Todd Solondz,Jane Adams,66408
+The Peanut Butter Falcon,2019,7.6,70,Tyler Nilson,Michael Schwartz,66346
+The Remains of the Day,1993,7.8,84,James Ivory,Anthony Hopkins,66065
+Badlands,1973,7.8,93,Terrence Malick,Martin Sheen,66009
+Mysterious Skin,2004,7.6,73,Gregg Araki,Brady Corbet,65939
+The Outlaw Josey Wales,1976,7.8,69,Clint Eastwood,Clint Eastwood,65659
+Being There,1979,8,83,Hal Ashby,Peter Sellers,65625
+Bacheha-Ye aseman,1997,8.3,77,Majid Majidi,Mohammad Amir Naji,65341
+Frankenstein,1931,7.8,91,James Whale,Colin Clive,65341
+Funny Games,1997,7.6,69,Michael Haneke,Susanne Lothar,65058
+Der Himmel über Berlin,1987,8,79,Wim Wenders,Bruno Ganz,64722
+Trois couleurs: Blanc,1994,7.6,88,Krzysztof Kieslowski,Zbigniew Zamachowski,64390
+The Philadelphia Story,1940,7.9,96,George Cukor,Cary Grant,63550
+Kal Ho Naa Ho,2003,8,54,Nikkhil Advani,Preity Zinta,63460
+Portrait de la jeune fille en feu,2019,8.1,95,Céline Sciamma,Noémie Merlant,63134
+Chung Hing sam lam,1994,8.1,77,Kar-Wai Wong,Brigitte Lin,63122
+Manbiki kazoku,2018,7.9,93,Hirokazu Koreeda,Lily Franky,62754
+Boksuneun naui geot,2002,7.6,56,Chan-wook Park,Kang-ho Song,62659
+Capharnaüm,2018,8.4,75,Nadine Labaki,Zain Al Rafeea,62635
+Breaking the Waves,1996,7.8,76,Lars von Trier,Emily Watson,62428
+Control,2007,7.7,78,Anton Corbijn,Sam Riley,61609
+Paddington 2,2017,7.8,88,Paul King,Ben Whishaw,61594
+Waking Life,2001,7.8,83,Richard Linklater,Ethan Hawke,60684
+Dark Waters,2019,7.6,73,Todd Haynes,Mark Ruffalo,60408
+Anatomy of a Murder,1959,8,95,Otto Preminger,James Stewart,59847
+After Hours,1985,7.7,90,Martin Scorsese,Griffin Dunne,59635
+Shadow of a Doubt,1943,7.8,94,Alfred Hitchcock,Teresa Wright,59556
+Sabrina,1954,7.7,72,Billy Wilder,Humphrey Bogart,59415
+La leggenda del pianista sull'oceano,1998,8.1,58,Giuseppe Tornatore,Tim Roth,59020
+Chugyeokja,2008,7.8,64,Hong-jin Na,Kim Yoon-seok,58468
+Only the Brave,2017,7.6,72,Joseph Kosinski,Josh Brolin,58371
+Fanny och Alexander,1982,8.1,100,Ingmar Bergman,Bertil Guve,57784
+Les choristes,2004,7.9,56,Christophe Barratier,Gérard Jugnot,57430
+All Quiet on the Western Front,1930,8,91,Lewis Milestone,Lew Ayres,57318
+The Best Years of Our Lives,1946,8,93,William Wyler,Myrna Loy,57259
+Le Petit Prince,2015,7.7,70,Mark Osborne,Jeff Bridges,56720
+"4 luni, 3 saptamâni si 2 zile",2007,7.9,97,Cristian Mungiu,Anamaria Marinca,56625
+Blowup,1966,7.6,82,Michelangelo Antonioni,David Hemmings,56513
+Rio Bravo,1959,8,93,Howard Hawks,John Wayne,56305
+The Right Stuff,1983,7.8,91,Philip Kaufman,Sam Shepard,56235
+Duck Soup,1933,7.8,93,Leo McCarey,Groucho Marx,55581
+Night on Earth,1991,7.8,68,Jim Jarmusch,Winona Ryder,55362
+Hamilton,2020,8.6,90,Thomas Kail,Lin-Manuel Miranda,55291
+Bringing Up Baby,1938,7.8,91,Howard Hawks,Katharine Hepburn,55163
+Crimes and Misdemeanors,1989,7.9,77,Woody Allen,Martin Landau,54670
+Le salaire de la peur,1953,8.1,85,Henri-Georges Clouzot,Yves Montand,54588
+"I, Daniel Blake",2016,7.9,78,Ken Loach,Laura Obiols,53818
+La battaglia di Algeri,1966,8.1,96,Gillo Pontecorvo,Brahim Hadjadj,53089
+Bronenosets Potemkin,1925,8,97,Sergei M. Eisenstein,Aleksandr Antonov,53054
+Victoria,2015,7.6,77,Sebastian Schipper,Laia Costa,52903
+Days of Heaven,1978,7.8,93,Terrence Malick,Richard Gere,52852
+Madeo,2009,7.8,79,Bong Joon Ho,Hye-ja Kim,52758
+The Longest Day,1962,7.8,75,Ken Annakin,Andrew Marton,52141
+The World's Fastest Indian,2005,7.8,68,Roger Donaldson,Anthony Hopkins,51980
+Mimi wo sumaseba,1995,7.9,75,Yoshifumi Kondô,Yoko Honna,51943
+Where Eagles Dare,1968,7.7,63,Brian G. Hutton,Richard Burton,51913
+The 39 Steps,1935,7.6,93,Alfred Hitchcock,Robert Donat,51853
+Pride,2014,7.8,79,Matthew Warchus,Bill Nighy,51841
+Song of the Sea,2014,8.1,85,Tomm Moore,David Rawle,51679
+The Killing Fields,1984,7.8,76,Roland Joffé,Sam Waterston,51585
+Shine,1996,7.7,87,Scott Hicks,Geoffrey Rush,51350
+Gegen die Wand,2004,7.9,78,Fatih Akin,Birol Ünel,51325
+Forushande,2016,7.8,85,Asghar Farhadi,Shahab Hosseini,51240
+Stalag 17,1953,8,84,Billy Wilder,William Holden,51046
+"Crna macka, beli macor",1998,8.1,73,Emir Kusturica,Bajram Severdzan,50862
+Loving Vincent,2017,7.8,62,Dorota Kobiela,Hugh Welchman,50778
+Mommy,2014,8.1,74,Xavier Dolan,Anne Dorval,50700
+Les triplettes de Belleville,2003,7.8,91,Sylvain Chomet,Michèle Caucheteux,50622
+Bin-jip,2004,8,72,Ki-duk Kim,Seung-Yun Lee,50610
+The Lunchbox,2013,7.8,76,Ritesh Batra,Irrfan Khan,50523
+The Muppet Christmas Carol,1992,7.7,64,Brian Henson,Michael Caine,50298
+What Ever Happened to Baby Jane?,1962,8.1,75,Robert Aldrich,Bette Davis,50058
+Dead Man's Shoes,2004,7.6,52,Shane Meadows,Paddy Considine,49728
+Nueve reinas,2000,7.9,80,Fabián Bielinsky,Ricardo Darín,49721
+Leviafan,2014,7.6,92,Andrey Zvyagintsev,Aleksey Serebryakov,49397
+Veer-Zaara,2004,7.8,67,Yash Chopra,Shah Rukh Khan,49050
+Repulsion,1965,7.7,91,Roman Polanski,Catherine Deneuve,48883
+Okuribito,2008,8.1,68,Yôjirô Takita,Masahiro Motoki,48582
+Cabaret,1972,7.8,80,Bob Fosse,Liza Minnelli,48334
+Down by Law,1986,7.8,75,Jim Jarmusch,Tom Waits,47834
+Koe no katachi,2016,8.1,78,Naoko Yamada,Miyu Irino,47708
+En man som heter Ove,2015,7.7,70,Hannes Holm,Rolf Lassgård,47444
+The Lady Vanishes,1938,7.8,98,Alfred Hitchcock,Margaret Lockwood,47400
+The Adventures of Robin Hood,1938,7.9,97,Michael Curtiz,William Keighley,47175
+The Purple Rose of Cairo,1985,7.7,75,Woody Allen,Mia Farrow,47102
+Ordinary People,1980,7.7,86,Robert Redford,Donald Sutherland,47099
+Just Mercy,2019,7.6,68,Destin Daniel Cretton,Michael B. Jordan,46739
+Kis Uykusu,2014,8.1,88,Nuri Bilge Ceylan,Haluk Bilginer,46547
+Darbareye Elly,2009,8,87,Asghar Farhadi,Golshifteh Farahani,45803
+Adams æbler,2005,7.8,51,Anders Thomas Jensen,Ulrich Thomsen,45717
+Dip huet seung hung,1989,7.8,82,John Woo,Yun-Fat Chow,45624
+Kelly's Heroes,1970,7.6,50,Brian G. Hutton,Clint Eastwood,45338
+Cat on a Hot Tin Roof,1958,8,84,Richard Brooks,Elizabeth Taylor,45062
+Le passé,2013,7.8,85,Asghar Farhadi,Bérénice Bejo,45002
+The Man Who Would Be King,1975,7.8,91,John Huston,Sean Connery,44917
+Invasion of the Body Snatchers,1956,7.7,92,Don Siegel,Kevin McCarthy,44839
+No Man's Land,2001,7.9,84,Danis Tanovic,Branko Djuric,44618
+Stagecoach,1939,7.8,93,John Ford,John Wayne,43621
+Bride of Frankenstein,1935,7.8,95,James Whale,Boris Karloff,43542
+From Here to Eternity,1953,7.6,85,Fred Zinnemann,Burt Lancaster,43374
+Cowboy Bebop: Tengoku no tobira,2001,7.9,61,Shin'ichirô Watanabe,Tensai Okamura,42897
+Lilja 4-ever,2002,7.8,82,Lukas Moodysson,Oksana Akinshina,42673
+The Last Picture Show,1971,8,93,Peter Bogdanovich,Timothy Bottoms,42456
+Vozvrashchenie,2003,8,82,Andrey Zvyagintsev,Vladimir Garin,42399
+La double vie de Véronique,1991,7.8,86,Krzysztof Kieslowski,Irène Jacob,42376
+Paper Moon,1973,8.1,77,Peter Bogdanovich,Ryan O'Neal,42285
+Short Cuts,1993,7.7,79,Robert Altman,Andie MacDowell,42275
+Freaks,1932,7.9,80,Tod Browning,Wallace Ford,42117
+Seppuku,1962,8.6,85,Masaki Kobayashi,Tatsuya Nakadai,42004
+Bir Zamanlar Anadolu'da,2011,7.9,82,Nuri Bilge Ceylan,Muhammet Uzuner,41995
+Miracle on 34th Street,1947,7.9,88,George Seaton,Edmund Gwenn,41625
+The Visitor,2007,7.6,79,Tom McCarthy,Richard Jenkins,41544
+In America,2002,7.7,76,Jim Sheridan,Paddy Considine,40403
+Withnail & I,1987,7.7,84,Bruce Robinson,Richard E. Grant,40396
+Mandariinid,2013,8.2,73,Zaza Urushadze,Lembit Ulfsak,40382
+A Hard Day's Night,1964,7.6,96,Richard Lester,John Lennon,40351
+East of Eden,1955,7.9,72,Elia Kazan,James Dean,40313
+Le locataire,1976,7.7,71,Roman Polanski,Roman Polanski,39889
+Guess Who's Coming to Dinner,1967,7.8,63,Stanley Kramer,Spencer Tracy,39642
+Fiddler on the Roof,1971,8,67,Norman Jewison,Topol,39491
+The Broken Circle Breakdown,2012,7.7,70,Felix van Groeningen,Veerle Baetens,39379
+Ôkami kodomo no Ame to Yuki,2012,8.1,71,Mamoru Hosoda,Aoi Miyazaki,38803
+Kaguyahime no monogatari,2013,8,89,Isao Takahata,Chloë Grace Moretz,38746
+Le charme discret de la bourgeoisie,1972,7.9,93,Luis Buñuel,Fernando Rey,38737
+Hævnen,2010,7.6,65,Susanne Bier,Mikael Persbrandt,38491
+Taegukgi hwinalrimyeo,2004,8.1,64,Je-kyu Kang,Jang Dong-Gun,37820
+Jules et Jim,1962,7.8,97,François Truffaut,Jeanne Moreau,37605
+Secrets & Lies,1996,8,91,Mike Leigh,Timothy Spall,37564
+Togo,2019,8,69,Ericson Core,Willem Dafoe,37556
+The Day of the Jackal,1973,7.8,80,Fred Zinnemann,Edward Fox,37445
+Le dîner de cons,1998,7.7,73,Francis Veber,Thierry Lhermitte,37424
+La montaña sagrada,1973,7.9,76,Alejandro Jodorowsky,Alejandro Jodorowsky,37183
+Central do Brasil,1998,8,80,Walter Salles,Fernanda Montenegro,36419
+The Verdict,1982,7.7,77,Sidney Lumet,Paul Newman,36096
+Love and Death,1975,7.7,89,Woody Allen,Woody Allen,36037
+Zulu,1964,7.7,77,Cy Endfield,Stanley Baker,35999
+Mustang,2015,7.6,83,Deniz Gamze Ergüven,Günes Sensoy,35785
+Ondskan,2003,7.8,61,Mikael Håfström,Andreas Wilson,35682
+Brief Encounter,1945,8,92,David Lean,Celia Johnson,35601
+Under sandet,2015,7.8,75,Martin Zandvliet,Roland Møller,35539
+Naked,1993,7.8,84,Mike Leigh,David Thewlis,34635
+Giant,1956,7.6,84,George Stevens,Elizabeth Taylor,34075
+Druk,2020,7.8,81,Thomas Vinterberg,Mads Mikkelsen,33931
+Watership Down,1978,7.6,64,Martin Rosen,John Hubley,33656
+Il postino,1994,7.7,81,Michael Radford,Massimo Troisi,33600
+The Muppet Movie,1979,7.6,74,James Frawley,Jim Henson,32802
+Omoide no Mânî,2014,7.7,72,James Simone,Hiromasa Yonebayashi,32798
+Kai po che!,2013,7.7,40,Abhishek Kapoor,Amit Sadh,32628
+A Little Princess,1995,7.7,83,Alfonso Cuarón,Liesel Matthews,32236
+Kagemusha,1980,8,84,Akira Kurosawa,Tatsuya Nakadai,32195
+Efter brylluppet,2006,7.7,78,Susanne Bier,Mads Mikkelsen,32001
+Hedwig and the Angry Inch,2001,7.7,85,John Cameron Mitchell,John Cameron Mitchell,31957
+Gully Boy,2019,8,65,Zoya Akhtar,Vijay Varma,31886
+The Secret of Kells,2009,7.6,81,Tomm Moore,Nora Twomey,31779
+Tôkyô goddofâzâzu,2003,7.8,73,Satoshi Kon,Shôgo Furuya,31658
+Once Were Warriors,1994,7.9,77,Lee Tamahori,Rena Owen,31590
+The Odd Couple,1968,7.7,86,Gene Saks,Jack Lemmon,31572
+Ace in the Hole,1951,8.1,72,Billy Wilder,Kirk Douglas,31568
+C.R.A.Z.Y.,2005,7.9,81,Jean-Marc Vallée,Michel Côté,31476
+A Man for All Seasons,1966,7.7,72,Fred Zinnemann,Paul Scofield,31222
+Au revoir les enfants,1987,8,88,Louis Malle,Gaspard Manesse,31163
+Auf der anderen Seite,2007,7.8,85,Fatih Akin,Baki Davrak,30827
+The Invisible Man,1933,7.7,87,James Whale,Claude Rains,30683
+The Circus,1928,8.1,90,Charles Chaplin,Charles Chaplin,30205
+Giù la testa,1971,7.6,77,Sergio Leone,Rod Steiger,30144
+To Be or Not to Be,1942,8.2,86,Ernst Lubitsch,Carole Lombard,29915
+Nelyubov,2017,7.6,86,Andrey Zvyagintsev,Maryana Spivak,29765
+Vampire Hunter D: Bloodlust,2000,7.7,62,Yoshiaki Kawajiri,Andrew Philpot,29210
+Bound by Honor,1993,8,47,Taylor Hackford,Damian Chapa,28825
+Du rififi chez les hommes,1955,8.2,97,Jules Dassin,Jean Servais,28810
+The Shop Around the Corner,1940,8.1,96,Ernst Lubitsch,Margaret Sullavan,28450
+All That Jazz,1979,7.9,72,Bob Fosse,Roy Scheider,28223
+Sweet Smell of Success,1957,8,100,Alexander Mackendrick,Burt Lancaster,28137
+Joyeux Noël,2005,7.7,70,Christian Carion,Diane Kruger,28003
+Wait Until Dark,1967,7.8,81,Terence Young,Audrey Hepburn,27733
+On Golden Pond,1981,7.6,68,Mark Rydell,Katharine Hepburn,27650
+Les yeux sans visage,1960,7.7,90,Georges Franju,Pierre Brasseur,27620
+Inherit the Wind,1960,8.1,75,Stanley Kramer,Spencer Tracy,27254
+Sound of Metal,2019,7.8,81,Darius Marder,Riz Ahmed,27187
+Omohide poro poro,1991,7.6,90,Isao Takahata,Miki Imai,27071
+Il conformista,1970,8,100,Bernardo Bertolucci,Jean-Louis Trintignant,27067
+Rupan sansei: Kariosutoro no shiro,1979,7.7,71,Hayao Miyazaki,Yasuo Yamada,27014
+The Innocents,1961,7.8,88,Jack Clayton,Deborah Kerr,27007
+The Taking of Pelham One Two Three,1974,7.7,68,Joseph Sargent,Walter Matthau,26729
+The Thin Man,1934,8,86,W.S. Van Dyke,William Powell,26642
+Gongdong gyeongbi guyeok JSA,2000,7.8,58,Chan-wook Park,Lee Yeong-ae,26518
+Lifeboat,1944,7.6,78,Alfred Hitchcock,Tallulah Bankhead,26471
+The Ladykillers,1955,7.7,91,Alexander Mackendrick,Alec Guinness,26464
+Cape Fear,1962,7.7,76,J. Lee Thompson,Gregory Peck,26457
+Do lok tin si,1995,7.7,71,Kar-Wai Wong,Leon Lai,26429
+The Long Goodbye,1973,7.6,87,Robert Altman,Elliott Gould,26337
+The Magdalene Sisters,2002,7.7,83,Peter Mullan,Eileen Walsh,25938
+Scarface: The Shame of the Nation,1932,7.8,87,Howard Hawks,Richard Rosson,25312
+La planète sauvage,1973,7.8,73,René Laloux,Barry Bostwick,25229
+God's Own Country,2017,7.7,85,Francis Lee,Josh O'Connor,25198
