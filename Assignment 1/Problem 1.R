@@ -1,0 +1,12 @@
+x <- c(4,-5,2)
+y <- c(6,1,-3)
+
+lx <- length(x)
+print(lx)
+ly <- length(y)
+print(ly)
+print(x+y)
+print(x-y)
+sum(x)
+sum(y)
+cov(x,y)

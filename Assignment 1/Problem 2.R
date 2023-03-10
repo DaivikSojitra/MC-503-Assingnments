@@ -1,0 +1,6 @@
+x1 <- rep(c(50),times = 10)
+x2 <- rep(c(1,2),times = 15)
+x3 <- seq(length = 50,from = -1,to = 3)
+x4 <- rep(c(2),times = 8)
+x5 <- c(1,5)
+finalVector <- c(x1,x2,x3,x4,x5)
